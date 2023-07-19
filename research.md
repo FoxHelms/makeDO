@@ -2,10 +2,24 @@
 
 ## What is a DevOps Engineer?
 
-They work with a bunch of people that are writing code for a project. Their job is to combine the code that everyone is writing into the official "source"
+They are the support class on web app teams. Their job is to combine the code that everyone is writing into the official "source" without the service going down. 
 
-The main tool they use is a program called "git", which keeps track of versions and changes to code. 
+
+
+# To Learn
+
+* test frameworks such as XCTest, XCUI, pytest, JUnit
+* Experience developing Python-based micro-services (vs monolith!) using Django/Flask
+* Writing (zero button) unit tests (within the funnction they test bc simple)
+* WTF is chef?
+* code analysis, release process, and code coverage
+
+
+## What tools do DevOps use?
+
+Git: convenient version control for local coding (GitHub for online stuff)
 - [ ] Build repo using git on desktop
+- [ ] Push to GitHub from terminal (brownie points 🍰)
 
 Docker: A tool that builds containers, which allow for more CI than VMs. 
 - [ ] Do an example in Docker
@@ -14,19 +28,9 @@ Docker: A tool that builds containers, which allow for more CI than VMs.
 Jenkins (or Travis CI): Automatically builds, tests, deploys new code commits (on different OSs too!)
 - [ ] Do an example in Jenkins
 
-Experience with CI/CD process and platforms e.g., Jenkins or Travis CI
-~ Writing unit tests.
-~~ Writing zero button tests within the functions they test
-Experience with Jenkins administration and scaling
-Experience with test frameworks such as XCTest, XCUI, pytest, JUnit
-Computer Science fundamentals (object-oriented design, data structures, algorithm design, and complexity analysis), 
-Experience developing Python-based micro-services using Django/Flask
 
-tools such as Chef (?), Docker, Kubernetes
-software development processes such as building, unit testing, code analysis, release process, and code coverage
-
-Project Ideas
--- Typwritten Poem generator web app. 
+## Project Ideas 🤖
+* Typwritten Poem generator web app. 
 
 
 
