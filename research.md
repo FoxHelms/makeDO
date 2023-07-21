@@ -10,7 +10,8 @@ They are the support class on web app teams. Their job is to combine the code th
 
 * Experience developing Python-based micro-services (vs monolith!) using Django/Flask
 * code analysis, release process, and code coverage
-* Look at web based apps on GH to study folder structure of micro services. 
+* Look at web based apps on GH to study folder structure of micro services.
+* How to do an API call
 
 
 ## What tools do DevOps use?
