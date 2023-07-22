@@ -8,7 +8,6 @@ They are the support class on web app teams. Their job is to combine the code th
 
 # To Learn
 
-* Experience developing Python-based micro-services (vs monolith!) using Django/Flask
 * code analysis, release process, and code coverage
 * Look at web based apps on GH to study folder structure of micro services.
 * How to do an API call
@@ -30,8 +29,11 @@ Jenkins (or Travis CI): Automatically builds, tests, deploys new code commits (o
 PyTest: a testing framework for python (simpler than unittest)
 - [ ] Incorporate pytest code (within the funnction they test bc simple??) and TDD philosophy into the coding project.
 
-Django: A framework used for developing the backend to web applications that receive lots of traffic. 
-- [ ] Use Django on project
+Django: A framework used for developing the full stack to complicated, dynamic web applications that receive lots of traffic. (Monolithic?)
+- [ ] Use Django on project? Maybe flask…
+
+Flask: A lightweight framework for developing simple, static web applications. (Micro services?)
+- [ ] Or maybe use Flask on the project. 
 
 Chef: A tool written in Ruby that helps control environments with lots of different nodes and servers. 
 
