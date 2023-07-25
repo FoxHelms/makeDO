@@ -40,6 +40,7 @@ Chef: A tool written in Ruby that helps control environments with lots of differ
 ## Project Ideas 🤖
 * Typwritten Poem generator web app. 
 * Fomo: an app that takes your zip code and shows you dog parks and trails and nearby opportunities to touch grass
+* Tell Me: a web app where you log in and select your mood and it tells you how many people near you (or in the world) are also feeling that way
 
 
 
