@@ -8,9 +8,10 @@ They are the support class on web app teams. Their job is to combine the code th
 
 # To Learn
 
-* code analysis, release process, and code coverage
+* release process
 * Look at web based apps on GH to study folder structure of micro services.
-* How to do an API call
+* How to do an API call in python
+* what a fixture is pytest
 
 
 ## What tools do DevOps use?
@@ -28,6 +29,7 @@ Jenkins (or Travis CI): Automatically builds, tests, deploys new code commits (o
 
 PyTest: a testing framework for python (simpler than unittest)
 - [ ] Incorporate pytest code (within the funnction they test bc simple??) and TDD philosophy into the coding project.
+- [ ] Write/calculate code coverage
 
 Django: A framework used for developing the full stack to complicated, dynamic web applications that receive lots of traffic. (Monolithic?)
 - [ ] Use Django on project? Maybe flask…
