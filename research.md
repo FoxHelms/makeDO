@@ -9,7 +9,7 @@ They are the support class on web app teams. Their job is to combine the code th
 # To Learn
 
 * release process
-* Look at web based apps on GH to study folder structure of micro services.
+* study github.com/swizzlevixen/letterbxd/tree/master
 * How to do an API call in python
 * what a fixture is pytest
 
