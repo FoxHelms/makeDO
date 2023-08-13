@@ -27,6 +27,9 @@ Docker: A tool that builds containers, which allow for more CI than VMs.
 Jenkins (or Travis CI): Automatically builds, tests, deploys new code commits (on different OSs too!)
 - [ ] Do an example in Jenkins
 
+Unittest: A Python-native testing framework. 
+- [X] Develop a project using TDD and unittest. 
+
 PyTest: a testing framework for python (simpler than unittest)
 - [ ] Incorporate pytest code (within the funnction they test bc simple??) and TDD philosophy into the coding project.
 - [ ] Write/calculate code coverage
