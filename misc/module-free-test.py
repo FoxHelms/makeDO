@@ -44,9 +44,3 @@ class GuessWho:
 GuessWho.inputTest()
 while True:
     GuessWho.ask(students)
-
-
-
-
-
-
