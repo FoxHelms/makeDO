@@ -38,7 +38,14 @@ Django: A framework used for developing the full stack to complicated, dynamic w
 - [ ] Use Django on project? Maybe flask…
 
 Flask: A lightweight framework for developing simple, static web applications. (Micro services?)
-- [ ] Or maybe use Flask on the project. 
+- [X] Practice using Flask and Jinja2
+- [ ] Or maybe use Flask on the project.
+
+SQLite: Database stuff?
+- [ ] Learn how SQLite works and practice. 
+
+Heroku: Hosting web apps written in many languages
+- [ ] Push web app to heroku (free tier)
 
 Chef: A tool written in Ruby that helps control environments with lots of different nodes and servers. 
 
