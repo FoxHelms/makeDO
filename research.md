@@ -11,7 +11,7 @@ They are the support class on web app teams. Their job is to combine the code th
 * release process
 * study github.com/swizzlevixen/letterbxd/tree/master
 * How to do an API call in python
-* what a fixture is pytest
+* what a fixture is pytest: Init class that you can pass to tests to prevent repeated code. 
 
 
 ## What tools do DevOps use?
@@ -31,6 +31,7 @@ Unittest: A Python-native testing framework.
 - [X] Develop a project using TDD and unittest. 
 
 PyTest: a testing framework for python (simpler than unittest)
+- [X] Do some practice with pytest
 - [ ] Incorporate pytest code (within the funnction they test bc simple??) and TDD philosophy into the coding project.
 - [ ] Write/calculate code coverage
 
@@ -42,7 +43,7 @@ Flask: A lightweight framework for developing simple, static web applications. (
 - [ ] Or maybe use Flask on the project.
 
 SQLite: Database stuff?
-- [ ] Learn how SQLite works and practice. 
+- [X] Learn how SQLite works and practice. 
 
 Heroku: Hosting web apps written in many languages
 - [ ] Push web app to heroku (free tier)
